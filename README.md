@@ -1,2 +1,2 @@
-# alignment_using_kaldo
-Generate Alignments using pretrained kaldi model
+## alignment_using_kaldo
+#Generate Alignments using pretrained kaldi model
